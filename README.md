@@ -12,3 +12,4 @@
 [https://github.com/2303a51910sru-edu-in/23CSBTB28-27/blob/main/Lab-07-AIML.ipynb]
 [https://github.com/2303a51910sru-edu-in/23CSBTB28-27/blob/main/Mean_Squared_Error_.ipynb]
 [https://github.com/2303a51910sru-edu-in/23CSBTB28-27/blob/main/SVM]
+[https://github.com/2303a51910sru-edu-in/23CSBTB28-27/blob/main/Exam.ipynb]
